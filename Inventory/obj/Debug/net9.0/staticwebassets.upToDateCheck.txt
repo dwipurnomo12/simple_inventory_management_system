@@ -1,0 +1,1098 @@
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\fr.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\Gilmer-Bold.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\th.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-europe-mill-en.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\morris.js\morris.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\hi.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\themify-icons\themify-icons.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\popper.js\dist\popper.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\moment.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\chartist-plugin-tooltips\dist\chartist-plugin-tooltip.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\TofinoPersonal-Regular.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\en-ie.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\css\fa-regular.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\morris.js\morris.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\mn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\sk.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\images\tooltip\shape3.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\tet.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\datatables.net\js\jquery.dataTables.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-us-il-chicago-mill-en.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\he.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\Gilmer-Medium.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\zh-cn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\style.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\custom.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\es-us.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\js\site.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-2.0.2.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\chart.js\dist\Chart.bundle.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\style.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\en-SG.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\webfonts\fa-brands-400.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\is.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\knob\jquery.knob.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ar-kw.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\sr-cyrl.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\nn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\datatables.net-bs4\js\dataTables.bootstrap4.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ar-kw.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ka.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\es-do.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\be.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\gd.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\css\fontawesome.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\raphael\dev\raphael.core.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\sk.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\raphael\dev\raphaelTest.html
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\gl.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\app-style-switcher.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\css\lobilist.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\es-us.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\es.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ar-tn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\hi.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\id.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\simple-line-icons\css\simple-line-icons.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\chartist-plugin-tooltips\dist\chartist-plugin-tooltip.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\kk.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ca.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\hr.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\webfonts\fa-regular-400.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\datatables.net-bs4\js\dataTables.bootstrap4.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ss.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-world-mill-en.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\datatables.net\Readme.md
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\sr.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-ca-lcc.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\el.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\css\fa-brands.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\it.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\min\moment-with-locales.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\vi.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\nl.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ar-dz.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ro.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\en-gb.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\en-au.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ga.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\c3\c3.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\images\tooltip\shape2.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ug-cn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\de-ch.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\eu.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\jv.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\is.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.js.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\example1\load.json
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\bm.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\uz.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\custom.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\mk.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\Gilmer-Medium.otf
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\cs.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-2.0.2.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\bo.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\sparkline\sparkline.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\zh-tw.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\nl-be.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\perfect-scrollbar\dist\perfect-scrollbar.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\dv.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\fa.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ur.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\pl.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery\dist\jquery.min.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ar-tn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\de.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\kk.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\bs.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\sd.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\bg.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\fr.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\id.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\chartist\chartist-init.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\mk.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ar-sa.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\js\jquery.ui.touch-punch-improved.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\TofinoPersonal-Medium.otf
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\si.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\sl.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\fullcalendar.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ms.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\sv.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ar.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ja.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\themify-icons\ie7\ie7.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-uk-mill-en.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\de-at.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\my.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\eo.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\en-gb.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\datatables.net\package.json
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\c3\c3.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\sw.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\ender.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ru.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\en-ca.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ca.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\morris\morris-data.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\da.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\datatables.net\js\jquery.dataTables.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\en-au.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\mr.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ta.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\be.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ar-ma.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\tzm.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\lt.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\et.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\sq.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\knob\jquery.knob.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\it.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\en-il.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\gcal.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\css\lobilist.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\th.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\perfect-scrollbar\dist\perfect-scrollbar.esm.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\js\task-init.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\chart.js\dist\Chart.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\sl.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\popper.js\dist\umd\popper-utils.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\jquery\dist\jquery.slim.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\tl-ph.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\pt.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\js\lobilist.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\nb.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\TofinoPersonal-Book.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\datatables.net-bs4\css\dataTables.bootstrap4.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\css\fa-solid.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\lb.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\chart.js\dist\Chart.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\datatables.net\License.txt
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\cv.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\js\jquery-ui.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\chartjs\chartjs.init.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\pt-br.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\jquery\dist\core.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\raphael\license.txt
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\prism\prism.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\yo.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\tg.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ar-sa.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\perfect-scrollbar\dist\perfect-scrollbar.jquery.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\az.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\uz-latn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\tr.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\en-ie.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\sq.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ko.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-de-mill.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\zh-cn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\raphael\raphael.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\tzl.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\da.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\lt.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ms-my.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\popper.js\dist\esm\popper-utils.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\perfect-scrollbar\dist\js\perfect-scrollbar.jquery.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\en-ca.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\chartist\chartist-init.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\datatable\datatable-basic.init.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\pa-in.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\gl.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery-validation\LICENSE.md
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\morris.js\bower.travis.json
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\Gilmer-Regular.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery\dist\jquery.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\mt.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\pt-br.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\hu.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\css\demo.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\pt.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\me.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\de.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\et.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\css\jquery-ui.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\Gilmer-Regular.otf
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ku.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\prism\prism.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ar-dz.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jvectormap.custom.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\hr.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\zh-hk.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\datatables.net-bs4\js\dataTables.bootstrap4.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ru.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\prism\prism-old.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\fr-ca.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\sv.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\Gilmer-Heavy.otf
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\hy-am.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\cs.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\css\fa-solid.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\zh-hk.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\pl.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\raphael\dev\banner.txt
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ms.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\chartist\chartist-plugin-tooltip.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\min\locales.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\morris\morris-data.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\sr.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ar-ma.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\datatable\data.json
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.min.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\fa.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\es.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\fo.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\el.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\fr-ca.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\jquery\dist\jquery.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\zh-tw.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\webfonts\fa-solid-900.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\gdp-data.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\fr-ch.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\calendar\cal-init.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\eu.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\app-style-switcher.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\x-pseudo.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\it-ch.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\favicon.ico
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-au-mill.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\chartist\dist\chartist.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\popper.js\dist\popper-utils.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\dashboards\dashboard1.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\Gilmer-Bold.otf
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\de-at.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ja.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ms-my.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\datatables.net-bs4\css\dataTables.bootstrap4.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\cy.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\es-do.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\css\fontawesome-all.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\tzm-latn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\sidebarmenu.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\css\fontawesome.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\tr.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\mi.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\Gilmer-Heavy.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\br.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ky.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\lb.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\themify-icons\fonts\themify.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\raphael\dev\raphael.svg.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\chartist\dist\chartist.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\fy.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\perfect-scrollbar\dist\perfect-scrollbar.common.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\images\tooltip\tooltip3.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\images\tooltip\shape1.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ar-ly.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\TofinoPersonal-Regular.otf
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\fr-ch.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\en-nz.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\TofinoPersonal-Medium.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\fullcalendar.print.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\min\moment.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\c3\d3.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\de-ch.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\js\demo.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\vi.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ro.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\lv.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\simple-line-icons\fonts\Simple-Line-Icons.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\nn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\fullcalendar.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\uk.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\chartist\chartist-init.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\popper.js\dist\umd\popper.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\raphael\raphael.no-deps.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\datatables.net-bs4\css\dataTables.bootstrap4.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\kn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\fi.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\themify-icons\ie7\ie7.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\chartist\chartist-plugin-tooltip.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery\LICENSE.txt
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\datatables.net-bs4\Readme.md
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ka.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\bg.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\images\tooltip\tooltip1.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\bs.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\css\fa-brands.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ar.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\fi.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\images\tooltip\tooltip2.svg
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale-all.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\popper.js\dist\esm\popper.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\raphael\dev\raphael.vml.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\lv.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\dashboards\dashboard1.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\css\fontawesome-all.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\chartjs\chartjs.init.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ne.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\sr-cyrl.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-us-aea-en.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\raphael\dev\raphael.amd.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\fonts\TofinoPersonal-Book.otf
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ml.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\nl-be.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\gu.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\perfect-scrollbar\dist\css\perfect-scrollbar.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\he.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\km.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\nl.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-asia-mill.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\datatables.net-bs4\package.json
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\css\icons\font-awesome\css\fa-regular.min.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\package.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\uk.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\lo.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\hu.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\calendar\cal-init.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\af.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\sidebarmenu.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\se.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\js\lobibox.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\gom-latn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\pages\datatable\datatable-basic.init.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\jvector\jquery-jvectormap-in-mill.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\ko.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\nb.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\lib\jquery\dist\jquery.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\bootstrap\dist\js\bootstrap.min.js.map
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\te.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\tlh.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\ar-ly.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\perfect-scrollbar\dist\js\perfect-scrollbar.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\js\feather.min.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\en-nz.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\moment\locale\bn.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\libs\fullcalendar\dist\locale\af.js
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\css\site.css
+D:\ASP.NET MVC\Inventory\Inventory\wwwroot\assets\extra-libs\taskboard\js\lobilist.js
+wwwroot\assets\css\fonts\Gilmer-Bold.eot
+wwwroot\assets\css\fonts\Gilmer-Bold.otf
+wwwroot\assets\css\fonts\Gilmer-Bold.svg
+wwwroot\assets\css\fonts\Gilmer-Bold.ttf
+wwwroot\assets\css\fonts\Gilmer-Bold.woff
+wwwroot\assets\css\fonts\Gilmer-Heavy.eot
+wwwroot\assets\css\fonts\Gilmer-Heavy.otf
+wwwroot\assets\css\fonts\Gilmer-Heavy.svg
+wwwroot\assets\css\fonts\Gilmer-Heavy.ttf
+wwwroot\assets\css\fonts\Gilmer-Heavy.woff
+wwwroot\assets\css\fonts\Gilmer-Medium.eot
+wwwroot\assets\css\fonts\Gilmer-Medium.otf
+wwwroot\assets\css\fonts\Gilmer-Medium.svg
+wwwroot\assets\css\fonts\Gilmer-Medium.ttf
+wwwroot\assets\css\fonts\Gilmer-Medium.woff
+wwwroot\assets\css\fonts\Gilmer-Regular.eot
+wwwroot\assets\css\fonts\Gilmer-Regular.otf
+wwwroot\assets\css\fonts\Gilmer-Regular.svg
+wwwroot\assets\css\fonts\Gilmer-Regular.ttf
+wwwroot\assets\css\fonts\Gilmer-Regular.woff
+wwwroot\assets\css\fonts\TofinoPersonal-Book.eot
+wwwroot\assets\css\fonts\TofinoPersonal-Book.otf
+wwwroot\assets\css\fonts\TofinoPersonal-Book.svg
+wwwroot\assets\css\fonts\TofinoPersonal-Book.ttf
+wwwroot\assets\css\fonts\TofinoPersonal-Book.woff
+wwwroot\assets\css\fonts\TofinoPersonal-Medium.eot
+wwwroot\assets\css\fonts\TofinoPersonal-Medium.otf
+wwwroot\assets\css\fonts\TofinoPersonal-Medium.svg
+wwwroot\assets\css\fonts\TofinoPersonal-Medium.ttf
+wwwroot\assets\css\fonts\TofinoPersonal-Medium.woff
+wwwroot\assets\css\fonts\TofinoPersonal-Regular.eot
+wwwroot\assets\css\fonts\TofinoPersonal-Regular.otf
+wwwroot\assets\css\fonts\TofinoPersonal-Regular.svg
+wwwroot\assets\css\fonts\TofinoPersonal-Regular.ttf
+wwwroot\assets\css\fonts\TofinoPersonal-Regular.woff
+wwwroot\assets\css\icons\font-awesome\css\fa-brands.css
+wwwroot\assets\css\icons\font-awesome\css\fa-brands.min.css
+wwwroot\assets\css\icons\font-awesome\css\fa-regular.css
+wwwroot\assets\css\icons\font-awesome\css\fa-regular.min.css
+wwwroot\assets\css\icons\font-awesome\css\fa-solid.css
+wwwroot\assets\css\icons\font-awesome\css\fa-solid.min.css
+wwwroot\assets\css\icons\font-awesome\css\fontawesome.css
+wwwroot\assets\css\icons\font-awesome\css\fontawesome.min.css
+wwwroot\assets\css\icons\font-awesome\css\fontawesome-all.css
+wwwroot\assets\css\icons\font-awesome\css\fontawesome-all.min.css
+wwwroot\assets\css\icons\font-awesome\less\_animated.less
+wwwroot\assets\css\icons\font-awesome\less\_bordered-pulled.less
+wwwroot\assets\css\icons\font-awesome\less\_core.less
+wwwroot\assets\css\icons\font-awesome\less\_fixed-width.less
+wwwroot\assets\css\icons\font-awesome\less\_icons.less
+wwwroot\assets\css\icons\font-awesome\less\_larger.less
+wwwroot\assets\css\icons\font-awesome\less\_list.less
+wwwroot\assets\css\icons\font-awesome\less\_mixins.less
+wwwroot\assets\css\icons\font-awesome\less\_rotated-flipped.less
+wwwroot\assets\css\icons\font-awesome\less\_screen-reader.less
+wwwroot\assets\css\icons\font-awesome\less\_stacked.less
+wwwroot\assets\css\icons\font-awesome\less\_variables.less
+wwwroot\assets\css\icons\font-awesome\less\fa-brands.less
+wwwroot\assets\css\icons\font-awesome\less\fa-regular.less
+wwwroot\assets\css\icons\font-awesome\less\fa-solid.less
+wwwroot\assets\css\icons\font-awesome\less\fontawesome.less
+wwwroot\assets\css\icons\font-awesome\scss\_animated.scss
+wwwroot\assets\css\icons\font-awesome\scss\_bordered-pulled.scss
+wwwroot\assets\css\icons\font-awesome\scss\_core.scss
+wwwroot\assets\css\icons\font-awesome\scss\_fixed-width.scss
+wwwroot\assets\css\icons\font-awesome\scss\_icons.scss
+wwwroot\assets\css\icons\font-awesome\scss\_larger.scss
+wwwroot\assets\css\icons\font-awesome\scss\_list.scss
+wwwroot\assets\css\icons\font-awesome\scss\_mixins.scss
+wwwroot\assets\css\icons\font-awesome\scss\_rotated-flipped.scss
+wwwroot\assets\css\icons\font-awesome\scss\_screen-reader.scss
+wwwroot\assets\css\icons\font-awesome\scss\_stacked.scss
+wwwroot\assets\css\icons\font-awesome\scss\_variables.scss
+wwwroot\assets\css\icons\font-awesome\scss\fa-brands.scss
+wwwroot\assets\css\icons\font-awesome\scss\fa-regular.scss
+wwwroot\assets\css\icons\font-awesome\scss\fa-solid.scss
+wwwroot\assets\css\icons\font-awesome\scss\fontawesome.scss
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-brands-400.eot
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-brands-400.svg
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-brands-400.ttf
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-brands-400.woff
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-brands-400.woff2
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-regular-400.eot
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-regular-400.svg
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-regular-400.ttf
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-regular-400.woff
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-regular-400.woff2
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-solid-900.eot
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-solid-900.svg
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-solid-900.ttf
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-solid-900.woff
+wwwroot\assets\css\icons\font-awesome\webfonts\fa-solid-900.woff2
+wwwroot\assets\css\icons\simple-line-icons\css\simple-line-icons.css
+wwwroot\assets\css\icons\simple-line-icons\fonts\Simple-Line-Icons.eot
+wwwroot\assets\css\icons\simple-line-icons\fonts\Simple-Line-Icons.svg
+wwwroot\assets\css\icons\simple-line-icons\fonts\Simple-Line-Icons.ttf
+wwwroot\assets\css\icons\simple-line-icons\fonts\Simple-Line-Icons.woff
+wwwroot\assets\css\icons\simple-line-icons\fonts\Simple-Line-Icons.woff2
+wwwroot\assets\css\icons\simple-line-icons\less\simple-line-icons.less
+wwwroot\assets\css\icons\simple-line-icons\scss\simple-line-icons.scss
+wwwroot\assets\css\icons\themify-icons\fonts\themify.eot
+wwwroot\assets\css\icons\themify-icons\fonts\themify.svg
+wwwroot\assets\css\icons\themify-icons\fonts\themify.ttf
+wwwroot\assets\css\icons\themify-icons\fonts\themify.woff
+wwwroot\assets\css\icons\themify-icons\ie7\ie7.css
+wwwroot\assets\css\icons\themify-icons\ie7\ie7.js
+wwwroot\assets\css\icons\themify-icons\themify-icons.css
+wwwroot\assets\css\icons\themify-icons\themify-icons.less
+wwwroot\assets\css\style.css
+wwwroot\assets\css\style.min.css
+wwwroot\assets\extra-libs\c3\c3.min.css
+wwwroot\assets\extra-libs\c3\c3.min.js
+wwwroot\assets\extra-libs\c3\d3.min.js
+wwwroot\assets\extra-libs\datatables.net\js\jquery.dataTables.js
+wwwroot\assets\extra-libs\datatables.net\js\jquery.dataTables.min.js
+wwwroot\assets\extra-libs\datatables.net\License.txt
+wwwroot\assets\extra-libs\datatables.net\package.json
+wwwroot\assets\extra-libs\datatables.net\Readme.md
+wwwroot\assets\extra-libs\datatables.net-bs4\css\dataTables.bootstrap4.css
+wwwroot\assets\extra-libs\datatables.net-bs4\css\dataTables.bootstrap4.min.css
+wwwroot\assets\extra-libs\datatables.net-bs4\js\dataTables.bootstrap4.js
+wwwroot\assets\extra-libs\datatables.net-bs4\js\dataTables.bootstrap4.min.js
+wwwroot\assets\extra-libs\datatables.net-bs4\package.json
+wwwroot\assets\extra-libs\datatables.net-bs4\Readme.md
+wwwroot\assets\extra-libs\jvector\gdp-data.js
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-2.0.2.css
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-2.0.2.min.js
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-asia-mill.js
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-au-mill.js
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-ca-lcc.js
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-de-mill.js
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-europe-mill-en.js
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-in-mill.js
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-uk-mill-en.js
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-us-aea-en.js
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-us-il-chicago-mill-en.js
+wwwroot\assets\extra-libs\jvector\jquery-jvectormap-world-mill-en.js
+wwwroot\assets\extra-libs\jvector\jvectormap.custom.js
+wwwroot\assets\extra-libs\knob\jquery.knob.js
+wwwroot\assets\extra-libs\knob\jquery.knob.min.js
+wwwroot\assets\extra-libs\prism\prism.css
+wwwroot\assets\extra-libs\prism\prism.js
+wwwroot\assets\extra-libs\prism\prism-old.js
+wwwroot\assets\extra-libs\sparkline\sparkline.js
+wwwroot\assets\extra-libs\taskboard\css\demo.css
+wwwroot\assets\extra-libs\taskboard\css\jquery-ui.min.css
+wwwroot\assets\extra-libs\taskboard\css\lobilist.css
+wwwroot\assets\extra-libs\taskboard\css\lobilist.min.css
+wwwroot\assets\extra-libs\taskboard\example1\delete.php
+wwwroot\assets\extra-libs\taskboard\example1\insert.php
+wwwroot\assets\extra-libs\taskboard\example1\load.json
+wwwroot\assets\extra-libs\taskboard\example1\update.php
+wwwroot\assets\extra-libs\taskboard\js\demo.js
+wwwroot\assets\extra-libs\taskboard\js\jquery.ui.touch-punch-improved.js
+wwwroot\assets\extra-libs\taskboard\js\jquery-ui.min.js
+wwwroot\assets\extra-libs\taskboard\js\lobibox.min.js
+wwwroot\assets\extra-libs\taskboard\js\lobilist.js
+wwwroot\assets\extra-libs\taskboard\js\lobilist.min.js
+wwwroot\assets\extra-libs\taskboard\js\task-init.js
+wwwroot\assets\extra-libs\taskboard\less\lobilist.less
+wwwroot\assets\extra-libs\taskboard\less\mixins.less
+wwwroot\assets\extra-libs\taskboard\less\variables.less
+wwwroot\assets\images\alert\alert.png
+wwwroot\assets\images\alert\alert2.png
+wwwroot\assets\images\alert\alert3.png
+wwwroot\assets\images\alert\alert4.png
+wwwroot\assets\images\alert\alert5.png
+wwwroot\assets\images\alert\alert6.png
+wwwroot\assets\images\alert\alert7.png
+wwwroot\assets\images\alert\model.png
+wwwroot\assets\images\alert\model2.png
+wwwroot\assets\images\alert\model3.png
+wwwroot\assets\images\background\active-bg.jpg
+wwwroot\assets\images\background\active-bg.png
+wwwroot\assets\images\background\beauty.jpg
+wwwroot\assets\images\background\error-bg.jpg
+wwwroot\assets\images\background\img5.jpg
+wwwroot\assets\images\background\img5.png
+wwwroot\assets\images\background\login-register.jpg
+wwwroot\assets\images\background\megamenubg.jpg
+wwwroot\assets\images\background\nyan-cat.gif
+wwwroot\assets\images\background\profile-bg.jpg
+wwwroot\assets\images\background\sidebarbg.png
+wwwroot\assets\images\background\socialbg.jpg
+wwwroot\assets\images\background\Thumbs.db
+wwwroot\assets\images\background\user-bg.jpg
+wwwroot\assets\images\background\user-info.jpg
+wwwroot\assets\images\background\weatherbg.jpg
+wwwroot\assets\images\big\1.jpg
+wwwroot\assets\images\big\3.jpg
+wwwroot\assets\images\big\5.jpg
+wwwroot\assets\images\big\auth-bg.jpg
+wwwroot\assets\images\big\auth-bg2.jpg
+wwwroot\assets\images\big\d2.jpg
+wwwroot\assets\images\big\icon.png
+wwwroot\assets\images\big\img1.jpg
+wwwroot\assets\images\big\img2.jpg
+wwwroot\assets\images\big\img3.jpg
+wwwroot\assets\images\big\img4.jpg
+wwwroot\assets\images\big\img5.jpg
+wwwroot\assets\images\big\img6.jpg
+wwwroot\assets\images\big\Thumbs.db
+wwwroot\assets\images\browser\chrome-logo.png
+wwwroot\assets\images\browser\edge-logo.png
+wwwroot\assets\images\browser\firefox-logo.png
+wwwroot\assets\images\browser\internet-logo.png
+wwwroot\assets\images\browser\netscape-logo.png
+wwwroot\assets\images\browser\opera-logo.png
+wwwroot\assets\images\browser\photoshop.jpg
+wwwroot\assets\images\browser\safari-logo.png
+wwwroot\assets\images\browser\sketch.jpg
+wwwroot\assets\images\custom-select.png
+wwwroot\assets\images\docs\gulp.jpg
+wwwroot\assets\images\favicon.png
+wwwroot\assets\images\gallery\chair.jpg
+wwwroot\assets\images\gallery\chair2.jpg
+wwwroot\assets\images\gallery\chair3.jpg
+wwwroot\assets\images\gallery\chair4.jpg
+wwwroot\assets\images\img1.jpg
+wwwroot\assets\images\img2.jpg
+wwwroot\assets\images\img3.jpg
+wwwroot\assets\images\landingpage\banne-img.png
+wwwroot\assets\images\landingpage\banner-bg.png
+wwwroot\assets\images\landingpage\brand-logos.png
+wwwroot\assets\images\landingpage\db.png
+wwwroot\assets\images\landingpage\f1.png
+wwwroot\assets\images\landingpage\f2.png
+wwwroot\assets\images\landingpage\f3.png
+wwwroot\assets\images\landingpage\favicon.png
+wwwroot\assets\images\landingpage\icon-sprite.jpg
+wwwroot\assets\images\landingpage\img2.jpg
+wwwroot\assets\images\landingpage\img3.jpg
+wwwroot\assets\images\landingpage\logo.png
+wwwroot\assets\images\landingpage\logos.png
+wwwroot\assets\images\landingpage\right-img.png
+wwwroot\assets\images\landingpage\section-bg.png
+wwwroot\assets\images\landingpage\section-img.png
+wwwroot\assets\images\logo-icon.png
+wwwroot\assets\images\logo-light-text.png
+wwwroot\assets\images\logo-text.png
+wwwroot\assets\images\product\chair.png
+wwwroot\assets\images\product\chair2.png
+wwwroot\assets\images\product\chair3.png
+wwwroot\assets\images\product\chair4.png
+wwwroot\assets\images\product\ipad.png
+wwwroot\assets\images\product\iphone.png
+wwwroot\assets\images\product\iwatch.png
+wwwroot\assets\images\product\p1.jpg
+wwwroot\assets\images\product\p2.jpg
+wwwroot\assets\images\product\p3.jpg
+wwwroot\assets\images\product\p4.jpg
+wwwroot\assets\images\rating\cancel-off.png
+wwwroot\assets\images\rating\cancel-on.png
+wwwroot\assets\images\rating\heart.png
+wwwroot\assets\images\rating\like.png
+wwwroot\assets\images\rating\star-half.png
+wwwroot\assets\images\rating\star-half-mono.png
+wwwroot\assets\images\rating\star-off.png
+wwwroot\assets\images\rating\star-on.png
+wwwroot\assets\images\tooltip\Euclid.png
+wwwroot\assets\images\tooltip\shape1.svg
+wwwroot\assets\images\tooltip\shape2.svg
+wwwroot\assets\images\tooltip\shape3.svg
+wwwroot\assets\images\tooltip\tooltip1.svg
+wwwroot\assets\images\tooltip\tooltip2.svg
+wwwroot\assets\images\tooltip\tooltip3.svg
+wwwroot\assets\images\users\1.jpg
+wwwroot\assets\images\users\1.png
+wwwroot\assets\images\users\1-old.jpg
+wwwroot\assets\images\users\2.jpg
+wwwroot\assets\images\users\2.png
+wwwroot\assets\images\users\3.jpg
+wwwroot\assets\images\users\3.png
+wwwroot\assets\images\users\4.jpg
+wwwroot\assets\images\users\5.jpg
+wwwroot\assets\images\users\6.jpg
+wwwroot\assets\images\users\7.jpg
+wwwroot\assets\images\users\8.jpg
+wwwroot\assets\images\users\agent.jpg
+wwwroot\assets\images\users\agent2.jpg
+wwwroot\assets\images\users\d1.jpg
+wwwroot\assets\images\users\d2.jpg
+wwwroot\assets\images\users\d3.jpg
+wwwroot\assets\images\users\d4.jpg
+wwwroot\assets\images\users\d5.jpg
+wwwroot\assets\images\users\profile.png
+wwwroot\assets\images\users\profile-pic.jpg
+wwwroot\assets\images\users\profile-pic-2.jpg
+wwwroot\assets\images\users\widget-table-pic1.jpg
+wwwroot\assets\images\users\widget-table-pic2.jpg
+wwwroot\assets\images\users\widget-table-pic3.jpg
+wwwroot\assets\images\users\widget-table-pic4.jpg
+wwwroot\assets\images\widgets\1.jpg
+wwwroot\assets\images\widgets\2.jpg
+wwwroot\assets\images\widgets\3.jpg
+wwwroot\assets\images\widgets\widget-carousel.jpg
+wwwroot\assets\images\widgets\widget-carousel-2.jpg
+wwwroot\assets\js\app-style-switcher.js
+wwwroot\assets\js\app-style-switcher.min.js
+wwwroot\assets\js\custom.js
+wwwroot\assets\js\custom.min.js
+wwwroot\assets\js\feather.min.js
+wwwroot\assets\js\pages\calendar\cal-init.js
+wwwroot\assets\js\pages\calendar\cal-init.min.js
+wwwroot\assets\js\pages\chartist\chartist-init.css
+wwwroot\assets\js\pages\chartist\chartist-init.js
+wwwroot\assets\js\pages\chartist\chartist-init.min.js
+wwwroot\assets\js\pages\chartist\chartist-plugin-tooltip.js
+wwwroot\assets\js\pages\chartist\chartist-plugin-tooltip.min.js
+wwwroot\assets\js\pages\chartjs\chartjs.init.js
+wwwroot\assets\js\pages\chartjs\chartjs.init.min.js
+wwwroot\assets\js\pages\dashboards\dashboard1.js
+wwwroot\assets\js\pages\dashboards\dashboard1.min.js
+wwwroot\assets\js\pages\datatable\data.json
+wwwroot\assets\js\pages\datatable\datatable-basic.init.js
+wwwroot\assets\js\pages\datatable\datatable-basic.init.min.js
+wwwroot\assets\js\pages\morris\morris-data.js
+wwwroot\assets\js\pages\morris\morris-data.min.js
+wwwroot\assets\js\sidebarmenu.js
+wwwroot\assets\js\sidebarmenu.min.js
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap.css
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap.css.map
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap.min.css
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\assets\libs\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\assets\libs\bootstrap\dist\js\bootstrap.js
+wwwroot\assets\libs\bootstrap\dist\js\bootstrap.js.map
+wwwroot\assets\libs\bootstrap\dist\js\bootstrap.min.js
+wwwroot\assets\libs\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\assets\libs\chart.js\dist\Chart.bundle.min.js
+wwwroot\assets\libs\chart.js\dist\Chart.min.css
+wwwroot\assets\libs\chart.js\dist\Chart.min.js
+wwwroot\assets\libs\chartist\dist\chartist.min.css
+wwwroot\assets\libs\chartist\dist\chartist.min.js
+wwwroot\assets\libs\chartist-plugin-tooltips\dist\chartist-plugin-tooltip.css
+wwwroot\assets\libs\chartist-plugin-tooltips\dist\chartist-plugin-tooltip.min.js
+wwwroot\assets\libs\datatables.net-bs4\css\dataTables.bootstrap4.min.css
+wwwroot\assets\libs\datatables.net-bs4\js\dataTables.bootstrap4.min.js
+wwwroot\assets\libs\fullcalendar\dist\fullcalendar.min.css
+wwwroot\assets\libs\fullcalendar\dist\fullcalendar.min.js
+wwwroot\assets\libs\fullcalendar\dist\fullcalendar.print.min.css
+wwwroot\assets\libs\fullcalendar\dist\gcal.min.js
+wwwroot\assets\libs\fullcalendar\dist\locale\af.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ar.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ar-dz.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ar-kw.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ar-ly.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ar-ma.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ar-sa.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ar-tn.js
+wwwroot\assets\libs\fullcalendar\dist\locale\be.js
+wwwroot\assets\libs\fullcalendar\dist\locale\bg.js
+wwwroot\assets\libs\fullcalendar\dist\locale\bs.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ca.js
+wwwroot\assets\libs\fullcalendar\dist\locale\cs.js
+wwwroot\assets\libs\fullcalendar\dist\locale\da.js
+wwwroot\assets\libs\fullcalendar\dist\locale\de.js
+wwwroot\assets\libs\fullcalendar\dist\locale\de-at.js
+wwwroot\assets\libs\fullcalendar\dist\locale\de-ch.js
+wwwroot\assets\libs\fullcalendar\dist\locale\el.js
+wwwroot\assets\libs\fullcalendar\dist\locale\en-au.js
+wwwroot\assets\libs\fullcalendar\dist\locale\en-ca.js
+wwwroot\assets\libs\fullcalendar\dist\locale\en-gb.js
+wwwroot\assets\libs\fullcalendar\dist\locale\en-ie.js
+wwwroot\assets\libs\fullcalendar\dist\locale\en-nz.js
+wwwroot\assets\libs\fullcalendar\dist\locale\es.js
+wwwroot\assets\libs\fullcalendar\dist\locale\es-do.js
+wwwroot\assets\libs\fullcalendar\dist\locale\es-us.js
+wwwroot\assets\libs\fullcalendar\dist\locale\et.js
+wwwroot\assets\libs\fullcalendar\dist\locale\eu.js
+wwwroot\assets\libs\fullcalendar\dist\locale\fa.js
+wwwroot\assets\libs\fullcalendar\dist\locale\fi.js
+wwwroot\assets\libs\fullcalendar\dist\locale\fr.js
+wwwroot\assets\libs\fullcalendar\dist\locale\fr-ca.js
+wwwroot\assets\libs\fullcalendar\dist\locale\fr-ch.js
+wwwroot\assets\libs\fullcalendar\dist\locale\gl.js
+wwwroot\assets\libs\fullcalendar\dist\locale\he.js
+wwwroot\assets\libs\fullcalendar\dist\locale\hi.js
+wwwroot\assets\libs\fullcalendar\dist\locale\hr.js
+wwwroot\assets\libs\fullcalendar\dist\locale\hu.js
+wwwroot\assets\libs\fullcalendar\dist\locale\id.js
+wwwroot\assets\libs\fullcalendar\dist\locale\is.js
+wwwroot\assets\libs\fullcalendar\dist\locale\it.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ja.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ka.js
+wwwroot\assets\libs\fullcalendar\dist\locale\kk.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ko.js
+wwwroot\assets\libs\fullcalendar\dist\locale\lb.js
+wwwroot\assets\libs\fullcalendar\dist\locale\lt.js
+wwwroot\assets\libs\fullcalendar\dist\locale\lv.js
+wwwroot\assets\libs\fullcalendar\dist\locale\mk.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ms.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ms-my.js
+wwwroot\assets\libs\fullcalendar\dist\locale\nb.js
+wwwroot\assets\libs\fullcalendar\dist\locale\nl.js
+wwwroot\assets\libs\fullcalendar\dist\locale\nl-be.js
+wwwroot\assets\libs\fullcalendar\dist\locale\nn.js
+wwwroot\assets\libs\fullcalendar\dist\locale\pl.js
+wwwroot\assets\libs\fullcalendar\dist\locale\pt.js
+wwwroot\assets\libs\fullcalendar\dist\locale\pt-br.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ro.js
+wwwroot\assets\libs\fullcalendar\dist\locale\ru.js
+wwwroot\assets\libs\fullcalendar\dist\locale\sk.js
+wwwroot\assets\libs\fullcalendar\dist\locale\sl.js
+wwwroot\assets\libs\fullcalendar\dist\locale\sq.js
+wwwroot\assets\libs\fullcalendar\dist\locale\sr.js
+wwwroot\assets\libs\fullcalendar\dist\locale\sr-cyrl.js
+wwwroot\assets\libs\fullcalendar\dist\locale\sv.js
+wwwroot\assets\libs\fullcalendar\dist\locale\th.js
+wwwroot\assets\libs\fullcalendar\dist\locale\tr.js
+wwwroot\assets\libs\fullcalendar\dist\locale\uk.js
+wwwroot\assets\libs\fullcalendar\dist\locale\vi.js
+wwwroot\assets\libs\fullcalendar\dist\locale\zh-cn.js
+wwwroot\assets\libs\fullcalendar\dist\locale\zh-hk.js
+wwwroot\assets\libs\fullcalendar\dist\locale\zh-tw.js
+wwwroot\assets\libs\fullcalendar\dist\locale-all.js
+wwwroot\assets\libs\jquery\dist\core.js
+wwwroot\assets\libs\jquery\dist\jquery.min.js
+wwwroot\assets\libs\jquery\dist\jquery.slim.min.js
+wwwroot\assets\libs\moment\ender.js
+wwwroot\assets\libs\moment\locale\af.js
+wwwroot\assets\libs\moment\locale\ar.js
+wwwroot\assets\libs\moment\locale\ar-dz.js
+wwwroot\assets\libs\moment\locale\ar-kw.js
+wwwroot\assets\libs\moment\locale\ar-ly.js
+wwwroot\assets\libs\moment\locale\ar-ma.js
+wwwroot\assets\libs\moment\locale\ar-sa.js
+wwwroot\assets\libs\moment\locale\ar-tn.js
+wwwroot\assets\libs\moment\locale\az.js
+wwwroot\assets\libs\moment\locale\be.js
+wwwroot\assets\libs\moment\locale\bg.js
+wwwroot\assets\libs\moment\locale\bm.js
+wwwroot\assets\libs\moment\locale\bn.js
+wwwroot\assets\libs\moment\locale\bo.js
+wwwroot\assets\libs\moment\locale\br.js
+wwwroot\assets\libs\moment\locale\bs.js
+wwwroot\assets\libs\moment\locale\ca.js
+wwwroot\assets\libs\moment\locale\cs.js
+wwwroot\assets\libs\moment\locale\cv.js
+wwwroot\assets\libs\moment\locale\cy.js
+wwwroot\assets\libs\moment\locale\da.js
+wwwroot\assets\libs\moment\locale\de.js
+wwwroot\assets\libs\moment\locale\de-at.js
+wwwroot\assets\libs\moment\locale\de-ch.js
+wwwroot\assets\libs\moment\locale\dv.js
+wwwroot\assets\libs\moment\locale\el.js
+wwwroot\assets\libs\moment\locale\en-au.js
+wwwroot\assets\libs\moment\locale\en-ca.js
+wwwroot\assets\libs\moment\locale\en-gb.js
+wwwroot\assets\libs\moment\locale\en-ie.js
+wwwroot\assets\libs\moment\locale\en-il.js
+wwwroot\assets\libs\moment\locale\en-nz.js
+wwwroot\assets\libs\moment\locale\en-SG.js
+wwwroot\assets\libs\moment\locale\eo.js
+wwwroot\assets\libs\moment\locale\es.js
+wwwroot\assets\libs\moment\locale\es-do.js
+wwwroot\assets\libs\moment\locale\es-us.js
+wwwroot\assets\libs\moment\locale\et.js
+wwwroot\assets\libs\moment\locale\eu.js
+wwwroot\assets\libs\moment\locale\fa.js
+wwwroot\assets\libs\moment\locale\fi.js
+wwwroot\assets\libs\moment\locale\fo.js
+wwwroot\assets\libs\moment\locale\fr.js
+wwwroot\assets\libs\moment\locale\fr-ca.js
+wwwroot\assets\libs\moment\locale\fr-ch.js
+wwwroot\assets\libs\moment\locale\fy.js
+wwwroot\assets\libs\moment\locale\ga.js
+wwwroot\assets\libs\moment\locale\gd.js
+wwwroot\assets\libs\moment\locale\gl.js
+wwwroot\assets\libs\moment\locale\gom-latn.js
+wwwroot\assets\libs\moment\locale\gu.js
+wwwroot\assets\libs\moment\locale\he.js
+wwwroot\assets\libs\moment\locale\hi.js
+wwwroot\assets\libs\moment\locale\hr.js
+wwwroot\assets\libs\moment\locale\hu.js
+wwwroot\assets\libs\moment\locale\hy-am.js
+wwwroot\assets\libs\moment\locale\id.js
+wwwroot\assets\libs\moment\locale\is.js
+wwwroot\assets\libs\moment\locale\it.js
+wwwroot\assets\libs\moment\locale\it-ch.js
+wwwroot\assets\libs\moment\locale\ja.js
+wwwroot\assets\libs\moment\locale\jv.js
+wwwroot\assets\libs\moment\locale\ka.js
+wwwroot\assets\libs\moment\locale\kk.js
+wwwroot\assets\libs\moment\locale\km.js
+wwwroot\assets\libs\moment\locale\kn.js
+wwwroot\assets\libs\moment\locale\ko.js
+wwwroot\assets\libs\moment\locale\ku.js
+wwwroot\assets\libs\moment\locale\ky.js
+wwwroot\assets\libs\moment\locale\lb.js
+wwwroot\assets\libs\moment\locale\lo.js
+wwwroot\assets\libs\moment\locale\lt.js
+wwwroot\assets\libs\moment\locale\lv.js
+wwwroot\assets\libs\moment\locale\me.js
+wwwroot\assets\libs\moment\locale\mi.js
+wwwroot\assets\libs\moment\locale\mk.js
+wwwroot\assets\libs\moment\locale\ml.js
+wwwroot\assets\libs\moment\locale\mn.js
+wwwroot\assets\libs\moment\locale\mr.js
+wwwroot\assets\libs\moment\locale\ms.js
+wwwroot\assets\libs\moment\locale\ms-my.js
+wwwroot\assets\libs\moment\locale\mt.js
+wwwroot\assets\libs\moment\locale\my.js
+wwwroot\assets\libs\moment\locale\nb.js
+wwwroot\assets\libs\moment\locale\ne.js
+wwwroot\assets\libs\moment\locale\nl.js
+wwwroot\assets\libs\moment\locale\nl-be.js
+wwwroot\assets\libs\moment\locale\nn.js
+wwwroot\assets\libs\moment\locale\pa-in.js
+wwwroot\assets\libs\moment\locale\pl.js
+wwwroot\assets\libs\moment\locale\pt.js
+wwwroot\assets\libs\moment\locale\pt-br.js
+wwwroot\assets\libs\moment\locale\ro.js
+wwwroot\assets\libs\moment\locale\ru.js
+wwwroot\assets\libs\moment\locale\sd.js
+wwwroot\assets\libs\moment\locale\se.js
+wwwroot\assets\libs\moment\locale\si.js
+wwwroot\assets\libs\moment\locale\sk.js
+wwwroot\assets\libs\moment\locale\sl.js
+wwwroot\assets\libs\moment\locale\sq.js
+wwwroot\assets\libs\moment\locale\sr.js
+wwwroot\assets\libs\moment\locale\sr-cyrl.js
+wwwroot\assets\libs\moment\locale\ss.js
+wwwroot\assets\libs\moment\locale\sv.js
+wwwroot\assets\libs\moment\locale\sw.js
+wwwroot\assets\libs\moment\locale\ta.js
+wwwroot\assets\libs\moment\locale\te.js
+wwwroot\assets\libs\moment\locale\tet.js
+wwwroot\assets\libs\moment\locale\tg.js
+wwwroot\assets\libs\moment\locale\th.js
+wwwroot\assets\libs\moment\locale\tlh.js
+wwwroot\assets\libs\moment\locale\tl-ph.js
+wwwroot\assets\libs\moment\locale\tr.js
+wwwroot\assets\libs\moment\locale\tzl.js
+wwwroot\assets\libs\moment\locale\tzm.js
+wwwroot\assets\libs\moment\locale\tzm-latn.js
+wwwroot\assets\libs\moment\locale\ug-cn.js
+wwwroot\assets\libs\moment\locale\uk.js
+wwwroot\assets\libs\moment\locale\ur.js
+wwwroot\assets\libs\moment\locale\uz.js
+wwwroot\assets\libs\moment\locale\uz-latn.js
+wwwroot\assets\libs\moment\locale\vi.js
+wwwroot\assets\libs\moment\locale\x-pseudo.js
+wwwroot\assets\libs\moment\locale\yo.js
+wwwroot\assets\libs\moment\locale\zh-cn.js
+wwwroot\assets\libs\moment\locale\zh-hk.js
+wwwroot\assets\libs\moment\locale\zh-tw.js
+wwwroot\assets\libs\moment\min\locales.min.js
+wwwroot\assets\libs\moment\min\moment.min.js
+wwwroot\assets\libs\moment\min\moment-with-locales.min.js
+wwwroot\assets\libs\moment\moment.js
+wwwroot\assets\libs\moment\package.js
+wwwroot\assets\libs\morris.js\bower.travis.json
+wwwroot\assets\libs\morris.js\morris.css
+wwwroot\assets\libs\morris.js\morris.min.js
+wwwroot\assets\libs\perfect-scrollbar\dist\css\perfect-scrollbar.min.css
+wwwroot\assets\libs\perfect-scrollbar\dist\js\perfect-scrollbar.jquery.min.js
+wwwroot\assets\libs\perfect-scrollbar\dist\js\perfect-scrollbar.min.js
+wwwroot\assets\libs\perfect-scrollbar\dist\perfect-scrollbar.common.js
+wwwroot\assets\libs\perfect-scrollbar\dist\perfect-scrollbar.esm.js
+wwwroot\assets\libs\perfect-scrollbar\dist\perfect-scrollbar.jquery.min.js
+wwwroot\assets\libs\perfect-scrollbar\dist\perfect-scrollbar.min.js
+wwwroot\assets\libs\popper.js\dist\esm\popper.min.js
+wwwroot\assets\libs\popper.js\dist\esm\popper-utils.min.js
+wwwroot\assets\libs\popper.js\dist\popper.min.js
+wwwroot\assets\libs\popper.js\dist\popper-utils.min.js
+wwwroot\assets\libs\popper.js\dist\umd\popper.min.js
+wwwroot\assets\libs\popper.js\dist\umd\popper-utils.min.js
+wwwroot\assets\libs\popper.js\dist\umd\poppper.js.flow
+wwwroot\assets\libs\raphael\dev\banner.txt
+wwwroot\assets\libs\raphael\dev\raphael.amd.js
+wwwroot\assets\libs\raphael\dev\raphael.core.js
+wwwroot\assets\libs\raphael\dev\raphael.svg.js
+wwwroot\assets\libs\raphael\dev\raphael.vml.js
+wwwroot\assets\libs\raphael\dev\raphaelTest.html
+wwwroot\assets\libs\raphael\license.txt
+wwwroot\assets\libs\raphael\raphael.min.js
+wwwroot\assets\libs\raphael\raphael.no-deps.min.js
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\item-image\1fdf5f60-eb0d-4b88-bd59-d3ff89a6e6b1.png
+wwwroot\item-image\4181f03e-78a9-4280-b1cd-0cb02771c364.png
+wwwroot\item-image\5717a4ea-06f6-475c-871b-69ca24c11214.png
+wwwroot\item-image\b047859f-5843-473b-9253-9358ec3df322.png
+wwwroot\item-image\bb07c688-d575-497f-ae68-c69f2fbec86c.png
+wwwroot\item-image\d3a1d319-01c4-44eb-9b7d-a91f5c32f276.png
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

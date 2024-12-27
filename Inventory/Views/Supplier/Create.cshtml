@@ -1,0 +1,41 @@
+﻿@model Inventory.Models.Supplier
+@{
+    ViewData["Title"] = "Add new Supplier";
+}
+
+<div class="container-fluid">
+    <div class="card-group">
+        <div class="card border-right">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-6">
+                        <h3>Add Supplier</h3>
+                    </div>
+                    <div class="col-6">
+                        <a asp-action="Index" class="btn btn-primary float-right">Back</a>
+                    </div>
+                </div>
+            </div>
+            <form asp-action="Create" method="post">
+                <div class="card-body">
+                    <div class="form-group">
+                        <label for="SupplierName">Supplier Name</label>
+                        <input type="text" class="form-control" asp-for="SupplierName" />
+                        @Html.ValidationMessageFor(model => model.SupplierName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="form-group">
+                        <label for="SupplierLocation">Supplier Location</label>
+                        <input type="text" class="form-control" asp-for="SupplierLocation" />
+                        @Html.ValidationMessageFor(model => model.SupplierLocation, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-success">Submit </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

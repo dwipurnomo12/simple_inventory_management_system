@@ -1,0 +1,140 @@
+﻿@model List<Inventory.Models.ItemOut>
+@{
+    ViewData["Title"] = "Items Out";
+    var successMessage = TempData["SuccessMessage"] as String;
+}
+
+<div class="container-fluid">
+    <div class="card-group">
+        <div class="card border-right">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-6">
+                        <h3>Items Out</h3>
+                    </div>
+                    <div class="col-6">
+                        <a asp-action="Create" class="btn btn-primary float-right">Add Data</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card-body">
+
+                @if (!string.IsNullOrEmpty(successMessage))
+                {
+                    <div class="alert alert-success">
+                        @successMessage
+                    </div>
+                }
+
+                <div class="table-responsive">
+                    <table id="items" class="display table table-striped table-hover">
+                        <thead>
+                            <tr>
+                                <td class="text-left">@Html.DisplayName("#")</td>
+                                <td class="text-left">@Html.DisplayName("Transaction Code")</td>
+                                <td class="text-left">@Html.DisplayName("Date of Entry")</td>
+                                <td class="text-left">@Html.DisplayName("Item Name")</td>
+                                <td class="text-left">@Html.DisplayName("Stock Out")</td>
+                                <td class="text-left">@Html.DisplayName("Customer")</td>
+                                <td class="text-left">@Html.DisplayName("Options")</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var itemOut in Model)
+                            {
+                                <tr>
+                                    <td class="text-left">@(Model.IndexOf(itemOut) + 1)</td>
+                                    <td class="text-left">@itemOut.TransactionCode</td>
+                                    <td class="text-left">@itemOut.DateOfEntry</td>
+                                    <td class="text-left">@itemOut.Item.ItemName</td>
+                                    <td class="text-left">@itemOut.StockOut</td>
+                                    <td class="text-left">@itemOut.Customer.CustomerName</td>
+                                    <td>
+                                        <a asp-action="Detail" class="btn btn-success" asp-route-id="@itemOut.Id"><i class="fas fa-regular fa-eye"></i></a>
+                                        <a asp-action="Edit" class="btn btn-warning" asp-route-id="@itemOut.Id"><i class="fas fa-regular fa-pen-to-square"></i></a>
+                                        <button class="btn btn-danger delete-btn" data-id="@itemOut.Id" data-name="@itemOut.TransactionCode"><i class="fas fa-regular fa-trash"></i></button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+
+                    <form id="csrfTokenForm" style="display:none;">
+                        @Html.AntiForgeryToken()
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready( function () {
+        $('#items').DataTable();
+    } );
+</script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const deleteButtons = document.querySelectorAll('.delete-btn');
+
+        deleteButtons.forEach(button => {
+            button.addEventListener('click', function () {
+                const id = this.getAttribute('data-id');
+                const name = this.getAttribute('data-name');
+
+                Swal.fire({
+                    title: 'Are you sure?',
+                    text: `Transaction "${name}" will be deleted permanently!`,
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonColor: '#d33',
+                    cancelButtonColor: '#3085d6',
+                    confirmButtonText: 'Yes, Delete!',
+                    cancelButtonText: 'Batal'
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                            const csrfTokenElement = document.querySelector('input[name="__RequestVerificationToken"]');
+                            const csrfToken = csrfTokenElement ? csrfTokenElement.value : '';
+
+                            if (!csrfToken) {
+                                console.error('CSRF Token not found!');
+                                return;
+                            }
+                        // Lakukan delete menggunakan fetch API
+                        fetch(`/ItemOut/Delete/${id}`, {
+                            method: 'POST',
+                            headers: {
+                                'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                            }
+                        }).then(response => {
+                            if (response.ok) {
+                                Swal.fire(
+                                    'Dihapus!',
+                                    `Transaction "${name}" deleted successfully.`,
+                                    'success'
+                                ).then(() => {
+                                    location.reload(); // Refresh halaman
+                                });
+                            } else {
+                                Swal.fire(
+                                    'Error!',
+                                    'An error occurred while deleting a Transaction',
+                                    'error'
+                                );
+                            }
+                        }).catch(error => {
+                            Swal.fire(
+                                'Error!',
+                                'A network error occurred.',
+                                'error'
+                            );
+                        });
+                    }
+                });
+            });
+        });
+    });
+</script>

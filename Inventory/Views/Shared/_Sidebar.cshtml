@@ -1,0 +1,99 @@
+﻿<nav class="sidebar-nav">
+    <ul id="sidebarnav">
+        <li class="sidebar-item">
+            <a class="sidebar-link sidebar-link" asp-controller="Home" asp-action="index"
+               aria-expanded="false">
+                <i data-feather="home" class="feather-icon"></i><span class="hide-menu">Dashboard</span>
+            </a>
+        </li>
+      
+        <li class="list-divider"></li>
+        <li class="nav-small-cap"><span class="hide-menu">Master Data</span></li>
+        <li class="sidebar-item">
+            <a class="sidebar-link has-arrow" href="javascript:void(0)"
+               aria-expanded="false">
+                <i data-feather="layers" class="feather-icon"></i><span class="hide-menu">Master Data </span>
+            </a>
+            <ul aria-expanded="false" class="collapse  first-level base-level-line">
+                <li class="sidebar-item">
+                    <a class="sidebar-link" asp-controller="Item" asp-action="index">
+                        <span class="hide-menu">
+                            Items
+                        </span>
+                    </a>
+                </li>
+                <li class="sidebar-item">
+                    <a class="sidebar-link" asp-controller="Category" asp-action="index">
+                        <span class="hide-menu">
+                            Categories
+                        </span>
+                    </a>
+                </li>
+                <li class="sidebar-item">
+                    <a class="sidebar-link" asp-controller="Unit" asp-action="index">
+                        <span class="hide-menu">
+                            Units
+                        </span>
+                    </a>
+                </li>
+
+            </ul>
+        </li>
+
+        <li class="list-divider"></li>
+        <li class="nav-small-cap"><span class="hide-menu">Company</span></li>
+        <li class="sidebar-item">
+            <a class="sidebar-link has-arrow" href="javascript:void(0)"
+               aria-expanded="false">
+                <i data-feather="bookmark" class="feather-icon"></i><span class="hide-menu">Company </span>
+            </a>
+            <ul aria-expanded="false" class="collapse  first-level base-level-line">
+                <li class="sidebar-item">
+                    <a class="sidebar-link" asp-controller="Supplier" asp-action="index">
+                        <span class="hide-menu">
+                            Suppliers
+                        </span>
+                    </a>
+                </li>
+                <li class="sidebar-item">
+                    <a class="sidebar-link" asp-controller="Customer" asp-action="index">
+                        <span class="hide-menu">
+                            Customers
+                        </span>
+                    </a>
+                </li>
+
+            </ul>
+        </li>
+
+        <li class="list-divider"></li>
+        <li class="nav-small-cap"><span class="hide-menu">Transaction</span></li>
+        <li class="sidebar-item">
+            <a class="sidebar-link sidebar-link" asp-controller="IncomingItem" asp-action="index"
+               aria-expanded="false">
+                <i data-feather="arrow-right-circle" class="feather-icon"></i><span class="hide-menu">Incoming Items</span>
+            </a>
+        </li>
+        <li class="sidebar-item">
+            <a class="sidebar-link sidebar-link" asp-controller="ItemOut" asp-action="index"
+               aria-expanded="false">
+                <i data-feather="arrow-left-circle" class="feather-icon"></i><span class="hide-menu">Items Out</span>
+            </a>
+        </li>
+
+        <li class="list-divider"></li>
+        <li class="nav-small-cap"><span class="hide-menu">Report</span></li>
+        <li class="sidebar-item">
+            <a class="sidebar-link sidebar-link" asp-controller="IncomingItemReport" asp-action="index"
+               aria-expanded="false">
+                <i data-feather="arrow-right-circle" class="feather-icon"></i><span class="hide-menu">Incoming Items Report </span>
+            </a>
+        </li>
+        <li class="sidebar-item">
+            <a class="sidebar-link sidebar-link" asp-controller="ItemOutReport" asp-action="index"
+               aria-expanded="false">
+                <i data-feather="arrow-left-circle" class="feather-icon"></i><span class="hide-menu">Items Out Report</span>
+            </a>
+        </li>
+    </ul>
+</nav>

@@ -1,0 +1,41 @@
+﻿@model Inventory.Models.Customer
+@{
+    ViewData["Title"] = "Edit Customer";
+}
+
+<div class="container-fluid">
+    <div class="card-group">
+        <div class="card border-right">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-6">
+                        <h3>Edit Customer</h3>
+                    </div>
+                    <div class="col-6">
+                        <a asp-action="Index" class="btn btn-primary float-right">Back</a>
+                    </div>
+                </div>
+            </div>
+            <form asp-action="Edit" method="post">
+                <div class="card-body">
+                    <div class="form-group">
+                        <label for="CustomerName">Customer Name</label>
+                        <input type="text" class="form-control" asp-for="CustomerName" />
+                        @Html.ValidationMessageFor(model => model.CustomerName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="form-group">
+                        <label for="CustomerLocation">Customer Location</label>
+                        <input type="text" class="form-control" asp-for="CustomerLocation" />
+                        @Html.ValidationMessageFor(model => model.CustomerLocation, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-success">Submit </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

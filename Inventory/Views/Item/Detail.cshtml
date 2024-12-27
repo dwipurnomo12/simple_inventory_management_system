@@ -1,0 +1,91 @@
+﻿@model Inventory.Models.Item
+@{
+    ViewData["Title"] = "Detail Item";
+}
+
+<div class="container-fluid">
+    <div class="card-group">
+        <div class="card border-right">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-6">
+                        <h3>Edit Item</h3>
+                    </div>
+                    <div class="col-6">
+                        <a asp-action="Index" class="btn btn-primary float-right">Back</a>
+                    </div>
+                </div>
+            </div>
+
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6"> 
+                            <!-- Display image preview if available -->
+                            <div id="imagePreviewContainer">
+                                <label>Item Image :</label> <br />
+                                <img id="imagePreview"
+                                     src="@(!string.IsNullOrEmpty(Model.ItemImage) ? Model.ItemImage : "/placeholder.png")"
+                                     alt="Image preview"
+                                     style="max-width: 200px; max-height: 200px;" />
+                            </div>
+                        </div>
+
+
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="ItemName">Item Name</label>
+                                <input type="text" class="form-control" asp-for="ItemName" disabled />
+                                @Html.ValidationMessageFor(model => model.ItemName, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                <label for="ItemDescription">Item Description</label>
+                                <textarea class="form-control" asp-for="ItemDescription" disabled></textarea>
+                                @Html.ValidationMessageFor(model => model.ItemDescription, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                <label for="ItemStock">Stock</label>
+                                <input type="text" class="form-control" asp-for="ItemStock" disabled />
+                                @Html.ValidationMessageFor(model => model.ItemStock, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                <label for="CategoryId">Category</label>
+                                <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control" disabled>
+                                    <option value=""> -- Select Category -- </option>
+                                </select>
+                                @Html.ValidationMessageFor(model => model.CategoryId, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                <label for="UnitId">Unit</label>
+                                <select asp-for="UnitId" asp-items="ViewBag.Units" class="form-control" disabled>
+                                    <option value=""> -- Select Unit -- </option>
+                                </select>
+                                @Html.ValidationMessageFor(model => model.UnitId, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+   
+        </div>
+    </div>
+</div>
+
+<script>
+    function previewImage(event) {
+        var reader = new FileReader();
+        var imagePreview = document.getElementById('imagePreview');
+        var imagePreviewContainer = document.getElementById('imagePreviewContainer');
+
+        // check if there is an image selected
+        if (event.target.files && event.target.files[0]) {
+            reader.onload = function(e) {
+                // Set preview image
+                imagePreview.src = e.target.result;
+                imagePreviewContainer.style.display = 'block'; // Tampilkan kontainer preview
+            }
+
+            // Read data
+            reader.readAsDataURL(event.target.files[0]);
+        }
+    }
+</script>
+

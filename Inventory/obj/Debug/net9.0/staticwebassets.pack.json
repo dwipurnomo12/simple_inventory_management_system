@@ -1,0 +1,2661 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Inventory.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Inventory.bbdnvseaxd.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Bold.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Bold.otf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Bold.otf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Bold.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Bold.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Bold.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Bold.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Heavy.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Heavy.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Heavy.otf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Heavy.otf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Heavy.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Heavy.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Heavy.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Heavy.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Heavy.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Heavy.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Medium.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Medium.otf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Medium.otf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Medium.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Medium.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Medium.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Medium.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Regular.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Regular.otf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Regular.otf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Regular.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Regular.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Regular.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\Gilmer-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\Gilmer-Regular.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Book.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Book.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Book.otf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Book.otf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Book.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Book.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Book.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Book.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Book.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Book.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Medium.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Medium.otf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Medium.otf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Medium.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Medium.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Medium.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Medium.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Regular.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Regular.otf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Regular.otf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Regular.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Regular.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Regular.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\fonts\\TofinoPersonal-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\TofinoPersonal-Regular.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\css\\fa-brands.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\css\\fa-brands.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\css\\fa-brands.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\css\\fa-brands.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\css\\fa-regular.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\css\\fa-regular.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\css\\fa-regular.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\css\\fa-regular.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\css\\fa-solid.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\css\\fa-solid.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\css\\fa-solid.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\css\\fa-solid.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_animated.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_core.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_core.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_icons.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_larger.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_list.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_list.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_mixins.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_stacked.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\_variables.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\fa-brands.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\fa-brands.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\fa-regular.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\fa-regular.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\fa-solid.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\fa-solid.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\less\\fontawesome.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\fa-brands.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\fa-brands.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\fa-regular.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\fa-regular.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\fa-solid.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\fa-solid.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\simple-line-icons\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\simple-line-icons\\less\\simple-line-icons.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\simple-line-icons\\less\\simple-line-icons.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\simple-line-icons\\scss\\simple-line-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\simple-line-icons\\scss\\simple-line-icons.scss"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\themify-icons\\ie7\\ie7.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\themify-icons\\ie7\\ie7.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\icons\\themify-icons\\themify-icons.less",
+      "PackagePath": "staticwebassets\\assets\\css\\icons\\themify-icons\\themify-icons.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\c3\\c3.min.css",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\c3\\c3.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\c3\\c3.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\c3\\c3.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\c3\\d3.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\c3\\d3.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\datatables.net-bs4\\Readme.md",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\datatables.net-bs4\\Readme.md"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\datatables.net-bs4\\package.json",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\datatables.net-bs4\\package.json"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\datatables.net\\License.txt",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\datatables.net\\License.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\datatables.net\\Readme.md",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\datatables.net\\Readme.md"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\datatables.net\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\datatables.net\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\datatables.net\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\datatables.net\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\datatables.net\\package.json",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\datatables.net\\package.json"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\gdp-data.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\gdp-data.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-asia-mill.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-asia-mill.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-ca-lcc.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-ca-lcc.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-de-mill.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-de-mill.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-europe-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-europe-mill-en.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\jvector\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\jvector\\jvectormap.custom.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\prism\\prism-old.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\prism\\prism-old.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\prism\\prism.css",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\prism\\prism.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\prism\\prism.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\prism\\prism.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\sparkline\\sparkline.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\sparkline\\sparkline.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\css\\lobilist.css",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\css\\lobilist.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\css\\lobilist.min.css",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\css\\lobilist.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\example1\\delete.php",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\example1\\delete.php"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\example1\\insert.php",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\example1\\insert.php"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\example1\\load.json",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\example1\\load.json"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\example1\\update.php",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\example1\\update.php"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\js\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\js\\jquery.ui.touch-punch-improved.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\js\\jquery.ui.touch-punch-improved.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\js\\lobilist.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\js\\lobilist.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\js\\lobilist.min.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\js\\lobilist.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\js\\task-init.js",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\js\\task-init.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\less\\lobilist.less",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\less\\lobilist.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\extra-libs\\taskboard\\less\\variables.less",
+      "PackagePath": "staticwebassets\\assets\\extra-libs\\taskboard\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\alert\\alert.png",
+      "PackagePath": "staticwebassets\\assets\\images\\alert\\alert.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\alert\\alert2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\alert\\alert2.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\alert\\alert3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\alert\\alert3.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\alert\\alert4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\alert\\alert4.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\alert\\alert5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\alert\\alert5.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\alert\\alert6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\alert\\alert6.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\alert\\alert7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\alert\\alert7.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\alert\\model.png",
+      "PackagePath": "staticwebassets\\assets\\images\\alert\\model.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\alert\\model2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\alert\\model2.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\alert\\model3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\alert\\model3.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\active-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\active-bg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\active-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\active-bg.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\beauty.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\beauty.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\error-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\error-bg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\img5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\img5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\img5.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\login-register.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\login-register.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\megamenubg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\megamenubg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\nyan-cat.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\nyan-cat.gif"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\profile-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\profile-bg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\sidebarbg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\sidebarbg.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\socialbg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\socialbg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\user-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\user-bg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\user-info.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\user-info.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\background\\weatherbg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\background\\weatherbg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\auth-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\auth-bg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\auth-bg2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\auth-bg2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\d2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\d2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\icon.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\img1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\img2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\img3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\img4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\img5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\big\\img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big\\img6.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\browser\\chrome-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser\\chrome-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\browser\\edge-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser\\edge-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\browser\\firefox-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser\\firefox-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\browser\\internet-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser\\internet-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\browser\\netscape-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser\\netscape-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\browser\\opera-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser\\opera-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\browser\\photoshop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\browser\\photoshop.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\browser\\safari-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\browser\\safari-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\browser\\sketch.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\browser\\sketch.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\custom-select.png",
+      "PackagePath": "staticwebassets\\assets\\images\\custom-select.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\docs\\gulp.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\docs\\gulp.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\gallery\\chair.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\chair.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\gallery\\chair2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\chair2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\gallery\\chair3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\chair3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\gallery\\chair4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\chair4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\banne-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\banne-img.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\banner-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\banner-bg.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\brand-logos.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\brand-logos.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\db.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\db.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\f1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\f1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\f2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\f2.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\f3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\f3.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\favicon.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\icon-sprite.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\icon-sprite.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\img2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\img3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\logos.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\logos.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\right-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\right-img.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\section-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\section-bg.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\landingpage\\section-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landingpage\\section-img.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\logo-light-text.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light-text.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\logo-text.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-text.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\product\\chair.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\chair.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\product\\chair2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\chair2.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\product\\chair3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\chair3.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\product\\chair4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\chair4.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\product\\ipad.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\ipad.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\product\\iphone.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\iphone.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\product\\iwatch.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\iwatch.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\product\\p1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\p1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\product\\p2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\p2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\product\\p3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\p3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\product\\p4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\p4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\rating\\cancel-off.png",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\cancel-off.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\rating\\cancel-on.png",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\cancel-on.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\rating\\heart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\heart.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\rating\\like.png",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\like.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\rating\\star-half-mono.png",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\star-half-mono.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\rating\\star-half.png",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\star-half.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\rating\\star-off.png",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\star-off.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\rating\\star-on.png",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\star-on.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\tooltip\\Euclid.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tooltip\\Euclid.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\tooltip\\shape1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\tooltip\\shape1.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\tooltip\\shape2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\tooltip\\shape2.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\tooltip\\shape3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\tooltip\\shape3.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\tooltip\\tooltip1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\tooltip\\tooltip1.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\tooltip\\tooltip2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\tooltip\\tooltip2.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\tooltip\\tooltip3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\tooltip\\tooltip3.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\1-old.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\1-old.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\2.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\3.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\6.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\7.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\8.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\agent.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\agent.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\agent2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\agent2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\d1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\d1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\d2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\d2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\d3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\d3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\d4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\d4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\d5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\d5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\profile-pic-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\profile-pic-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\profile-pic.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\profile-pic.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\profile.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\widget-table-pic1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\widget-table-pic1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\widget-table-pic2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\widget-table-pic2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\widget-table-pic3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\widget-table-pic3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\users\\widget-table-pic4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\widget-table-pic4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\widgets\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widgets\\1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\widgets\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widgets\\2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\widgets\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widgets\\3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\widgets\\widget-carousel-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widgets\\widget-carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\images\\widgets\\widget-carousel.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widgets\\widget-carousel.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\app-style-switcher.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app-style-switcher.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\app-style-switcher.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app-style-switcher.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\feather.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\calendar\\cal-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\calendar\\cal-init.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\calendar\\cal-init.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\calendar\\cal-init.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\chartist\\chartist-init.css",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\chartist\\chartist-init.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\chartist\\chartist-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\chartist\\chartist-init.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\chartist\\chartist-init.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\chartist\\chartist-init.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\chartist\\chartist-plugin-tooltip.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\chartist\\chartist-plugin-tooltip.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\chartist\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\chartist\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\chartjs\\chartjs.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\chartjs\\chartjs.init.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\chartjs\\chartjs.init.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\chartjs\\chartjs.init.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\dashboards\\dashboard1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboards\\dashboard1.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\dashboards\\dashboard1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboards\\dashboard1.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\datatable\\data.json",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\datatable\\data.json"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\datatable\\datatable-basic.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\datatable\\datatable-basic.init.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\datatable\\datatable-basic.init.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\datatable\\datatable-basic.init.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\morris\\morris-data.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\morris\\morris-data.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\pages\\morris\\morris-data.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\morris\\morris-data.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\js\\sidebarmenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sidebarmenu.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\chart.js\\dist\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chart.js\\dist\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\chart.js\\dist\\Chart.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\chart.js\\dist\\Chart.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\chart.js\\dist\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chart.js\\dist\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\chartist\\dist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\chartist\\dist\\chartist.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\chartist\\dist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chartist\\dist\\chartist.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\fullcalendar.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\fullcalendar.print.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\fullcalendar.print.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\gcal.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\gcal.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale-all.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale-all.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\af.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\af.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ar.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\be.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\be.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\bg.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\bs.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ca.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\cs.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\da.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\da.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\de-at.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\de-ch.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\de.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\de.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\el.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\el.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\en-au.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\en-ca.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\en-gb.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\en-ie.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\en-nz.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\es-do.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\es-us.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\es.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\es.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\et.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\et.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\eu.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\fa.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\fi.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\fr.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\gl.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\he.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\he.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\hi.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\hr.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\hu.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\id.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\id.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\is.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\is.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\it.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\it.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ja.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ka.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\kk.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ko.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\lb.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\lt.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\lv.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\mk.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ms-my.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ms.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\nb.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\nl-be.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\nl.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\nn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\pl.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\pt-br.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\pt.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ro.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\ru.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\sk.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\sl.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\sq.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\sr.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\sv.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\th.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\th.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\tr.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\uk.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\vi.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\fullcalendar\\dist\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\dist\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\jquery\\dist\\core.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\dist\\core.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\ender.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\ender.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\af.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\af.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ar.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\az.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\az.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\be.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\be.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\bg.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\bm.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\bm.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\bn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\bn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\bo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\bo.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\br.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\br.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\bs.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ca.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\cs.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\cv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\cv.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\cy.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\cy.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\da.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\da.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\de-at.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\de-ch.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\de.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\de.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\dv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\dv.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\el.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\el.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\en-SG.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-SG.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-au.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-ca.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-gb.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-ie.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\en-il.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-il.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\en-nz.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\eo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\eo.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\es-do.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\es-us.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\es.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\es.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\et.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\et.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\eu.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fa.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fi.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\fo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fo.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fr.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\fy.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\fy.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ga.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ga.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\gd.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\gd.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\gl.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\gom-latn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\gom-latn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\gu.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\gu.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\he.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\he.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\hi.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\hr.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\hu.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\hy-am.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\hy-am.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\id.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\id.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\is.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\is.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\it-ch.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\it-ch.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\it.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\it.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ja.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\jv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\jv.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ka.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\kk.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\km.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\km.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\kn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\kn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ko.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ku.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ku.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ky.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ky.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\lb.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\lo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\lo.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\lt.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\lv.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\me.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\me.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\mi.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\mi.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\mk.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ml.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ml.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\mn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\mn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\mr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\mr.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ms-my.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ms.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\mt.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\mt.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\my.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\my.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\nb.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ne.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ne.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\nl-be.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\nl.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\nn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\pa-in.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\pa-in.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\pl.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\pt-br.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\pt.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ro.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ru.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\sd.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sd.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\se.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\se.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\si.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\si.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sk.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sl.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sq.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sr.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ss.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ss.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sv.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\sw.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\sw.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ta.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ta.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\te.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\te.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\tet.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tet.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\tg.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tg.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\th.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\th.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\tl-ph.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tl-ph.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\tlh.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tlh.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tr.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\tzl.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tzl.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\tzm-latn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tzm-latn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\tzm.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\tzm.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ug-cn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ug-cn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\uk.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\ur.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\ur.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\uz-latn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\uz-latn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\uz.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\uz.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\vi.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\x-pseudo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\x-pseudo.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\yo.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\yo.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\min\\locales.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\min\\locales.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\min\\moment-with-locales.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\min\\moment-with-locales.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\min\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\min\\moment.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\moment.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\moment\\package.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\package.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\morris.js\\bower.travis.json",
+      "PackagePath": "staticwebassets\\assets\\libs\\morris.js\\bower.travis.json"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\morris.js\\morris.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\morris.js\\morris.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\morris.js\\morris.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\morris.js\\morris.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\css\\perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\css\\perfect-scrollbar.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.common.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.common.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.esm.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.esm.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\perfect-scrollbar\\dist\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\popper.js\\dist\\esm\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\dist\\esm\\popper-utils.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\popper.js\\dist\\esm\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\dist\\esm\\popper.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\popper.js\\dist\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\dist\\popper-utils.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\popper.js\\dist\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\dist\\popper.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\popper.js\\dist\\umd\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\dist\\umd\\popper-utils.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\popper.js\\dist\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\dist\\umd\\popper.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\popper.js\\dist\\umd\\poppper.js.flow",
+      "PackagePath": "staticwebassets\\assets\\libs\\popper.js\\dist\\umd\\poppper.js.flow"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\raphael\\dev\\banner.txt",
+      "PackagePath": "staticwebassets\\assets\\libs\\raphael\\dev\\banner.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\raphael\\dev\\raphael.amd.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\raphael\\dev\\raphael.amd.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\raphael\\dev\\raphael.core.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\raphael\\dev\\raphael.core.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\raphael\\dev\\raphael.svg.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\raphael\\dev\\raphael.svg.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\raphael\\dev\\raphael.vml.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\raphael\\dev\\raphael.vml.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\raphael\\dev\\raphaelTest.html",
+      "PackagePath": "staticwebassets\\assets\\libs\\raphael\\dev\\raphaelTest.html"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\raphael\\license.txt",
+      "PackagePath": "staticwebassets\\assets\\libs\\raphael\\license.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\assets\\libs\\raphael\\raphael.no-deps.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\raphael\\raphael.no-deps.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\item-image\\1fdf5f60-eb0d-4b88-bd59-d3ff89a6e6b1.png",
+      "PackagePath": "staticwebassets\\item-image\\1fdf5f60-eb0d-4b88-bd59-d3ff89a6e6b1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\item-image\\4181f03e-78a9-4280-b1cd-0cb02771c364.png",
+      "PackagePath": "staticwebassets\\item-image\\4181f03e-78a9-4280-b1cd-0cb02771c364.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\item-image\\5717a4ea-06f6-475c-871b-69ca24c11214.png",
+      "PackagePath": "staticwebassets\\item-image\\5717a4ea-06f6-475c-871b-69ca24c11214.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\item-image\\b047859f-5843-473b-9253-9358ec3df322.png",
+      "PackagePath": "staticwebassets\\item-image\\b047859f-5843-473b-9253-9358ec3df322.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\item-image\\bb07c688-d575-497f-ae68-c69f2fbec86c.png",
+      "PackagePath": "staticwebassets\\item-image\\bb07c688-d575-497f-ae68-c69f2fbec86c.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\item-image\\d3a1d319-01c4-44eb-9b7d-a91f5c32f276.png",
+      "PackagePath": "staticwebassets\\item-image\\d3a1d319-01c4-44eb-9b7d-a91f5c32f276.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Inventory\\Inventory\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Inventory.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Inventory.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Inventory.props",
+      "PackagePath": "build\\Inventory.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Inventory.props",
+      "PackagePath": "buildMultiTargeting\\Inventory.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Inventory.props",
+      "PackagePath": "buildTransitive\\Inventory.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

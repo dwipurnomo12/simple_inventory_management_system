@@ -1,0 +1,138 @@
+﻿@model List<Inventory.Models.IncomingItem>
+@{
+    ViewData["Title"] = "Incoming Items";
+    var successMessage = TempData["SuccessMessage"] as String;
+}
+
+<div class="container-fluid">
+    <div class="card-group">
+        <div class="card border-right">
+            <div class="card-header">          
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3>Incoming Items</h3>
+                    </div>
+                    <div class="col-md-6">
+                        <a class="btn btn-danger text-white float-right">Pdf</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card-body">
+
+                <div class="card-body">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="form-group">
+                                <form id="filter_form" method="GET">
+                                    <div class="row">
+                                        <div class="col-md-5">
+                                            <label>Pilih Tanggal Mulai:</label>
+                                            <input type="date" class="form-control" name="tanggal_mulai" id="tanggal_mulai">
+                                        </div>
+                                        <div class="col-md-5">
+                                            <label>Pilih Tanggal Selesai:</label>
+                                            <input type="date" class="form-control" name="tanggal_selesai" id="tanggal_selesai">
+                                        </div>
+                                        <div class="col-md-2 d-flex align-items-end">
+                                            <button type="submit" class="btn btn-primary">Filter</button>
+                                            <button type="button" class="btn btn-danger" id="refresh_btn">Refresh</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+
+                @if (!string.IsNullOrEmpty(successMessage))
+                {
+                    <div class="alert alert-success">
+                        @successMessage
+                    </div>
+                }
+
+                <div class="table-responsive">
+                    <table id="items" class="display table table-striped table-hover">
+                        <thead>
+                            <tr>
+                                <td class="text-left">@Html.DisplayName("#")</td>
+                                <td class="text-left">@Html.DisplayName("Transaction Code")</td>
+                                <td class="text-left">@Html.DisplayName("Date of Entry")</td>
+                                <td class="text-left">@Html.DisplayName("Item Name")</td>
+                                <td class="text-left">@Html.DisplayName("Stock In")</td>
+                                <td class="text-left">@Html.DisplayName("Supplier")</td>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+
+                    <form id="csrfTokenForm" style="display:none;">
+                        @Html.AntiForgeryToken()
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready( function () {
+        let table = $('#items').DataTable({ paging: true});
+        loadData();
+
+        $('#filter_form').submit(function(event){
+            event.preventDefault();
+            loadData();
+        });
+
+        $('#refresh_btn').on('click', function() {
+            refreshTable();
+        });
+        
+             function loadData() {
+                var tanggalMulai = $('#tanggal_mulai').val();
+                var tanggalSelesai = $('#tanggal_selesai').val();
+
+                $.ajax({
+                    url: '/IncomingItemReport/GetData', // Ganti dengan route ASP.NET Core
+                    type: 'GET',
+                    dataType: 'json',
+                    data: {
+                        tanggal_mulai: tanggalMulai,
+                        tanggal_selesai: tanggalSelesai
+                    },
+                    success: function (response) {
+                        // Hapus data tabel sebelum menambahkan data baru
+                        var table = $('#items').DataTable();
+                        table.clear().draw();
+
+                        if (response.length > 0) {
+                            $.each(response, function (index, item) {
+                                // Tambahkan data ke DataTable
+                                var row = [
+                                    index + 1,
+                                    item.TransactionCode,
+                                    item.DateOfEntry,
+                                    item.ItemName,
+                                    item.StockIn,
+                                    item.SupplierName // Nama Supplier
+                                ];
+                                table.row.add(row).draw(false);
+                            });
+                        } else {
+                            // Tampilkan baris kosong jika tidak ada data
+                            var emptyRow = ['', 'Tidak ada data yang tersedia.', '', '', '', ''];
+                            table.row.add(emptyRow).draw(false);
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        console.error("Error:", error);
+                    }
+                });
+            }
+    } );
+</script>
+
+
+
