@@ -1,5 +1,6 @@
 ﻿using Inventory.Data;
 using Inventory.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,6 +14,8 @@ namespace Inventory.Controllers
             _context = context;
         }
 
+        [Authorize(Policy = "superadmin")]
+
         public async Task<IActionResult> Index()
         {
             var unit = await _context.Units
@@ -21,10 +24,14 @@ namespace Inventory.Controllers
             return View(unit);
         }
 
+        [Authorize(Policy = "superadmin")]
+
         public IActionResult Create()
         {
             return View();
         }
+
+        [Authorize(Policy = "superadmin")]
 
         [HttpPost]
         public async Task<IActionResult> Create([Bind("Id", "UnitName")] Unit unit)
@@ -40,11 +47,15 @@ namespace Inventory.Controllers
             return View(unit);
         }
 
+        [Authorize(Policy = "superadmin")]
+
         public async Task<IActionResult> Edit(int id)
         {
             var unit = await _context.Units.FirstOrDefaultAsync(x=>x.Id == id);
             return View(unit);
         }
+
+        [Authorize(Policy = "superadmin")]
 
         [HttpPost]
         public async Task<IActionResult> Edit(int id, [Bind("Id", "UnitName")] Unit unit)
@@ -59,6 +70,8 @@ namespace Inventory.Controllers
             }
             return View(unit);
         }
+
+        [Authorize(Policy = "superadmin")]
 
         [HttpPost]
         public async Task<IActionResult> Delete(int id)

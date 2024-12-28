@@ -1,5 +1,6 @@
 ﻿using Inventory.Data;
 using Inventory.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -17,6 +18,7 @@ namespace Inventory.Controllers
             _logger = logger;
         }
 
+        [Authorize(Policy = "superadmin")]
         public async Task<IActionResult> Index()
         {
             var item = await _context.Items
@@ -27,6 +29,7 @@ namespace Inventory.Controllers
             return View(item);
         }
 
+        [Authorize(Policy = "superadmin")]
         public IActionResult Create()
         {
             ViewBag.Categories = new SelectList(_context.Categories.ToList(), "Id", "CategoryName");
@@ -34,6 +37,7 @@ namespace Inventory.Controllers
             return View();
         }
 
+        [Authorize(Policy = "superadmin")]
         [HttpPost]
         public async Task<IActionResult> Create([Bind("Id", "ItemName", "ItemDescription", "CategoryId", "UnitId")] Item item, IFormFile ItemImage)
         {
@@ -85,6 +89,7 @@ namespace Inventory.Controllers
             return View(item);
         }
 
+        [Authorize(Policy = "superadmin")]
         public async Task<IActionResult> Edit(int id)
         {
             var item = await _context.Items.FirstOrDefaultAsync(x => x.Id == id);
@@ -94,7 +99,7 @@ namespace Inventory.Controllers
             return View(item) ;
         }
 
-
+        [Authorize(Policy = "superadmin")]
         [HttpPost]
         public async Task<IActionResult> Edit(int id, [Bind("Id", "ItemName", "ItemDescription", "CategoryId", "UnitId")] Item item, IFormFile ItemImage)
         {
@@ -147,6 +152,7 @@ namespace Inventory.Controllers
             return RedirectToAction("Index");
         }
 
+        [Authorize(Policy = "superadmin")]
         public async Task<IActionResult> Detail(int id)
         {
             var item = await _context.Items.FirstOrDefaultAsync(x => x.Id == id);
@@ -156,6 +162,7 @@ namespace Inventory.Controllers
             return View(item);
         }
 
+        [Authorize(Policy = "superadmin")]
         public async Task<IActionResult> Delete(int id)
         {
             var item = await _context.Items.FindAsync(id);

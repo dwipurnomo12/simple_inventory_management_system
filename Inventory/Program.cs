@@ -1,45 +1,68 @@
+using DinkToPdf.Contracts;
+using DinkToPdf;
 using Inventory.Data;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Claims;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Konfigurasi koneksi ke database
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString"))
+);
+
+// Menambahkan layanan autentikasi dan otorisasi dengan cookie
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
-        options.LoginPath = "/Auth/Login"; // Rute login
-        options.AccessDeniedPath = "/Auth/Login"; // Rute akses ditolak
+        options.LoginPath = "/Auth/Login"; // Halaman login
+        options.AccessDeniedPath = "/Auth/Login"; // Halaman akses ditolak
     });
 
-
-// Tambahkan layanan session
+// Menambahkan sesi
 builder.Services.AddSession();
-builder.Services.AddControllersWithViews();
 
+// Menambahkan layanan PDF untuk DinkToPdf
+builder.Services.AddSingleton(typeof(IConverter), new SynchronizedConverter(new PdfTools()));
+
+// Menambahkan kebijakan otorisasi berdasarkan klaim 'superadmin'
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("superadmin", policy =>
+        policy.RequireClaim(ClaimTypes.Role, "superadmin"));
+
+    options.AddPolicy("superadminOrAdmin", policy =>
+    policy.RequireAssertion(context =>
+        context.User.IsInRole("superadmin") || context.User.IsInRole("admin")
+    ));
+});
+
+// Menyiapkan aplikasi
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Mengonfigurasi middleware dalam pipeline HTTP
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    app.UseHsts();
+    app.UseHsts(); // Menggunakan HSTS (HTTP Strict Transport Security)
 }
 
-app.UseHttpsRedirection();
-app.UseRouting();
-app.UseStaticFiles();
+app.UseHttpsRedirection(); // Memaksa HTTPS
+app.UseRouting(); // Menggunakan routing untuk controller
+app.UseStaticFiles(); // Menggunakan file statis (seperti CSS, JS, dll.)
 
-// Tambahkan middleware session sebelum routing
+// Middleware untuk sesi
 app.UseSession();
 
-app.UseAuthorization();
-app.UseAuthentication();
+// Middleware untuk otentikasi dan otorisasi
+app.UseAuthentication(); // Mengaktifkan autentikasi
+app.UseAuthorization();  // Mengaktifkan otorisasi
 
-// Middleware autentikasi sebelum routing
+// Middleware untuk memastikan hanya user yang terautentikasi yang bisa mengakses halaman lain
 app.Use(async (context, next) =>
 {
     var path = context.Request.Path.Value;
@@ -57,11 +80,10 @@ app.Use(async (context, next) =>
     await next.Invoke();
 });
 
-app.MapStaticAssets();
-
+// Routing untuk controller
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}")
-    .WithStaticAssets();
+    .WithStaticAssets(); // Mendukung pengelolaan aset statis seperti gambar, js, dll.
 
-app.Run();
+app.Run(); // Menjalankan aplikasi

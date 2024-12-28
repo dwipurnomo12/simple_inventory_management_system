@@ -1,6 +1,6 @@
 ﻿@model List<Inventory.Models.IncomingItem>
 @{
-    ViewData["Title"] = "Incoming Items";
+    ViewData["Title"] = "Incoming Items Report";
     var successMessage = TempData["SuccessMessage"] as String;
 }
 
@@ -13,7 +13,7 @@
                         <h3>Incoming Items</h3>
                     </div>
                     <div class="col-md-6">
-                        <a class="btn btn-danger text-white float-right">Pdf</a>
+                        <a class="btn btn-warning text-white float-right" id="btn-get-pdf">Get Pdf</a>
                     </div>
                 </div>
             </div>
@@ -27,11 +27,11 @@
                                 <form id="filter_form" method="GET">
                                     <div class="row">
                                         <div class="col-md-5">
-                                            <label>Pilih Tanggal Mulai:</label>
+                                            <label>Select start date:</label>
                                             <input type="date" class="form-control" name="tanggal_mulai" id="tanggal_mulai">
                                         </div>
                                         <div class="col-md-5">
-                                            <label>Pilih Tanggal Selesai:</label>
+                                            <label>Select end date:</label>
                                             <input type="date" class="form-control" name="tanggal_selesai" id="tanggal_selesai">
                                         </div>
                                         <div class="col-md-2 d-flex align-items-end">
@@ -88,6 +88,15 @@
 
         $('#refresh_btn').on('click', function() {
             refreshTable();
+
+            Swal.fire({
+                toast: true,
+                position: 'top-end',
+                icon: 'success',
+                    title: 'Refresh data successful!',
+                showConfirmButton: false,
+                timer: 2000
+            });
         });
         
              function loadData() {
@@ -95,7 +104,7 @@
                 var tanggalSelesai = $('#tanggal_selesai').val();
 
                 $.ajax({
-                    url: '/IncomingItemReport/GetData', // Ganti dengan route ASP.NET Core
+                    url: '/IncomingItemReport/GetData', 
                     type: 'GET',
                     dataType: 'json',
                     data: {
@@ -103,27 +112,25 @@
                         tanggal_selesai: tanggalSelesai
                     },
                     success: function (response) {
-                        // Hapus data tabel sebelum menambahkan data baru
                         var table = $('#items').DataTable();
                         table.clear().draw();
 
                         if (response.length > 0) {
                             $.each(response, function (index, item) {
-                                // Tambahkan data ke DataTable
                                 var row = [
                                     index + 1,
-                                    item.TransactionCode,
-                                    item.DateOfEntry,
-                                    item.ItemName,
-                                    item.StockIn,
-                                    item.SupplierName // Nama Supplier
+                                    item.transactionCode,
+                                    item.dateOfEntry,
+                                    item.itemName,
+                                    item.stockIn,
+                                    item.supplierName 
                                 ];
                                 table.row.add(row).draw(false);
                             });
+                                  $('#items tbody tr td').addClass('text-left');
                         } else {
-                            // Tampilkan baris kosong jika tidak ada data
-                            var emptyRow = ['', 'Tidak ada data yang tersedia.', '', '', '', ''];
-                            table.row.add(emptyRow).draw(false);
+                                var emptyRow = ['', 'No data available..', '', '', '', ''];
+                                table.row.add(emptyRow).draw(false);
                         }
                     },
                     error: function (xhr, status, error) {
@@ -131,6 +138,32 @@
                     }
                 });
             }
+
+            function refreshTable(){
+                $('#filter_form')[0].reset();
+                loadData();
+            }
+
+            document.getElementById('btn-get-pdf').addEventListener('click', function () {
+                var tanggalMulai = document.getElementById('tanggal_mulai').value;
+                var tanggalSelesai = document.getElementById('tanggal_selesai').value;
+
+                if (!tanggalMulai || !tanggalSelesai) {
+                        Swal.fire({
+                            toast: true,
+                            position: 'top-end',
+                            icon: 'error',
+                            title: 'Select date range is requiredl!',
+                            showConfirmButton: false,
+                            timer: 2000
+                        });
+                return;
+                }
+
+                var url = `/IncomingItemReport/GetPdf?tanggal_mulai=${tanggalMulai}&tanggal_selesai=${tanggalSelesai}`;
+                window.location.href = url;
+            });
+
     } );
 </script>
 

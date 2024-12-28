@@ -1,5 +1,6 @@
 ﻿using Inventory.Data;
 using Inventory.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -16,6 +17,7 @@ namespace Inventory.Controllers
             _logger = logger;
         }
 
+        [Authorize(Policy = "superadminOrAdmin")]
         public async Task<IActionResult> Index()
         {
             var incomingItem = await _context.IncomingItems
@@ -26,6 +28,7 @@ namespace Inventory.Controllers
             return View(incomingItem);
         }
 
+        [Authorize(Policy = "superadminOrAdmin")]
         public IActionResult Create()
         {
             ViewBag.Items = new SelectList(_context.Items.ToList(), "Id", "ItemName");
@@ -33,6 +36,7 @@ namespace Inventory.Controllers
             return View();
         }
 
+        [Authorize(Policy = "superadminOrAdmin")]
         [HttpPost]
         public async Task<IActionResult> Create([Bind("Id", "ItemId", "DateOfEntry", "StockIn", "SupplierId")] IncomingItem incomingItem)
         {
@@ -62,6 +66,7 @@ namespace Inventory.Controllers
             return View(incomingItem);
         }
 
+        [Authorize(Policy = "superadminOrAdmin")]
         public async Task <IActionResult> Edit(int id)
         {
             var incomingItem = await _context.IncomingItems.FirstOrDefaultAsync(x => x.Id == id);
@@ -71,6 +76,7 @@ namespace Inventory.Controllers
             return View(incomingItem);
         }
 
+        [Authorize(Policy = "superadminOrAdmin")]
         [HttpPost]
         public async Task<IActionResult> Edit(int id, [Bind("Id", "ItemId", "DateOfEntry", "StockIn", "SupplierId")] IncomingItem incomingItem)
         {
@@ -107,6 +113,7 @@ namespace Inventory.Controllers
             return RedirectToAction("Index");
         }
 
+        [Authorize(Policy = "superadminOrAdmin")]
         [HttpPost]
         public async Task <IActionResult> Delete(int id)
         {

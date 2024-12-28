@@ -1,26 +1,76 @@
 ﻿@{
     ViewData["Title"] = "Dashboard ";
 }
+@using System.Security.Claims
+
 
 <div class="container-fluid">
-    <!-- *************************************************************** -->
-    <!-- Start First Cards -->
-    <!-- *************************************************************** -->
     <div class="card-group">
         <div class="card border-right">
-            <div class="card-body">
+            <div class="card-body bg-primary text-white">
+                Welcome,
+                @{
+                    var userName = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Name)?.Value;
+                    var userRole = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role)?.Value;
+                }
+                @userName - @userRole
+                in Simple Inventory Management System
             </div>
         </div>
-        
     </div>
-    <!-- *************************************************************** -->
-    <!-- End First Cards -->
-    <!-- *************************************************************** -->
-    <!-- *************************************************************** -->
-    <!-- Start Sales Charts Section -->
-    <!-- *************************************************************** -->
-   
-    <!-- *************************************************************** -->
-    <!-- End Top Leader Table -->
-    <!-- *************************************************************** -->
+
+    @if (User.IsInRole("superadmin"))
+    {
+        <div class="row">
+            <div class="col-md-4">
+            <a asp-controller="Item" asp-action="index">
+                <div class="card">
+                    <div class="card-body bg-success text-white">
+                        @ViewBag.ItemsCount Item
+                    </div>
+                </div>
+            </a>
+        </div>
+         <div class="col-md-4">
+            <a asp-controller="IncomingItem" asp-action="index">
+                <div class="card">
+                    <div class="card-body bg-warning text-white">
+                        @ViewBag.IncomingItemsCount Incoming Item
+                    </div>
+                </div>
+            </a>
+        </div>
+         <div class="col-md-4">
+            <a asp-controller="ItemOut" asp-action="index">
+                <div class="card">
+                    <div class="card-body bg-danger text-white">
+                        @ViewBag.ItemsOutCount Item Out
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    } else {
+        <div class="row">
+            <div class="col-md-6">
+                <a asp-controller="IncomingItem" asp-action="index">
+                    <div class="card">
+                        <div class="card-body bg-warning text-white">
+                            @ViewBag.IncomingItemsCount Incoming Item
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-6">
+                <a asp-controller="ItemOut" asp-action="index">
+                    <div class="card">
+                        <div class="card-body bg-danger text-white">
+                            @ViewBag.ItemsOutCount Item Out
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    }
+    
 </div>

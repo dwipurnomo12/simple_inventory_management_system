@@ -39,10 +39,10 @@ namespace Inventory.Controllers
             {
                 // Buat daftar klaim untuk pengguna
                 var claims = new List<Claim>
-            {
-                new Claim(ClaimTypes.Name, user.Username),
-                new Claim(ClaimTypes.Role, user.Role.RoleName),
-            };
+                {
+                    new Claim(ClaimTypes.Name, user.Username),
+                    new Claim(ClaimTypes.Role, user.Role.RoleName),
+                };
 
                 // Buat identity dan principal
                 var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
